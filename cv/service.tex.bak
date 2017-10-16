@@ -1,0 +1,54 @@
+%\newpage
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Service \& Outreach}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Course Volunteer} % Role
+    {Book'n It Run -- Sun Prairie, WI} % Title
+    {} % Location
+    {2017} % Date(s)
+    {
+      %\begin{cvitems} % Description(s)
+        %\item {}
+     % \end{cvitems}
+    }
+    
+%---------------------------------------------------------
+  \cventry
+    {Course Volunteer} % Role
+    {Crazy Legs -- Madison, WI} % Title
+    {} % Location
+    {2016} % Date(s)
+    {
+      %\begin{cvitems} % Description(s)
+        %\item {}
+     % \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Safety Representative} % Role
+    {Warp Drive Bio} % Title
+    {} % Location
+    {02/2013--05/2015} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Coordinated with outside consultants to advise on the best practices for safe operating conditions and waste containment and removal.}
+      \end{cvitems}
+    }
+    
+
+
+    
+
+%---------------------------------------------------------
+\end{cventries}

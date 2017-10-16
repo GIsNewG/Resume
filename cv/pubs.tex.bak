@@ -1,0 +1,73 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Talks, Publications, \& Abstracts}
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Invited Talks}
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvpubs}
+
+%---------------------------------------------------------
+  \cvpub
+    {``Improved plasma proteomics enables the investigation into Alzheimer's Disease progression." Keystone Symposia: Omics Strategies to Study the Proteome. Breckenridge, CO. Feb 01, 2017.} % Ref
+    {T1} % Number
+
+%---------------------------------------------------------
+\end{cvpubs}
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{\\\\\\\\Peer-reviewed Publications}
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvpubs}
+
+  \cvpub
+    {\textbf{Wilson GM}, Rocky Blanco, Joshua J. Coon, Troy A. Hornberger. ``Identifying Novel Signaling Pathways: An Exercise Scientists Guide to Phosphoproteomics." \textit{Under review}.} % Ref
+    {P3} % Number
+
+%---------------------------------------------------------
+  \cvpub
+    {Christopher P Lapointe, Jonathan A Stephely, Adam Jochem, Paul D Hutchins, \textbf{GM Wilson}, Nicholas W Kwiecien, Joshua J Coon, Marvin P Wickens, and David J Pagliarini. ``Post-Translational Control of Coenzyme Q Biosynthesis Revealed by Transomic Analysis of the RNA-Bining Protein Puf3p." \textit{Cell Systems}.} % Ref
+    {P2} % Number
+
+%---------------------------------------------------------
+  \cvpub
+    {L.A. Graham, \textbf{GM Wilson}, T. K. West, C.S. Day, G.L. Kucera, and U. Bierbach. ``Unusual Reactivity of a Potent Platinum-Acridine Hybrid Antitumor Agent." \textit{ACS Med. Chem. Lett.}, 2011, 2:687. DOI: 10.1021/ml200104h} % Ref
+    {P1} % Number
+    
+%---------------------------------------------------------
+
+\end{cvpubs}
+
+%-------------------------------------------------------------------------------
+%	SUBSECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsubsection{Abstracts}
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvpubs}
+
+%---------------------------------------------------------
+  \cvpub
+    {\underline{\textbf{Wilson GM}}, Evgenia Shishkova, Burcu F. Darst, Alexander S. Hebert, Michael S. Westphall, Sterling C. JOhnson, Kirk J. Hogan, Corinne D. Engelman, and Joshua J. Coon. ``Improved plasma proteomics enables the investigation into Alzheimer's Disease progression." Presented at: Keystone Symposia: Omics strategies to study the proteome, Breckenridge, CO; Feb 1, 2017.} % Ref
+    {A2} % Number
+
+%---------------------------------------------------------
+  \cvpub
+    {\underline{\textbf{Wilson GM}}, Evgenia Shishkova, Alexander S. Hebert, Michael S. Westphall, and Joshua J. Coon. ``Rapid proteomic profiling of human blood plasma." Presented at: American Society of Mass Spectrometry; San Antonio, TX; Jun 9, 2016.} % Ref
+    {A1} % Number
+
+%---------------------------------------------------------
+\end{cvpubs}
